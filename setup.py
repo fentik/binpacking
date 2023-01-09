@@ -9,7 +9,6 @@ setup(name='binpacking',
       license='MIT',
       packages=['binpacking'],
       install_requires=[
-          'future',
       ],
       tests_require=['pytest', 'pytest-cov'],
       dependency_links=[
